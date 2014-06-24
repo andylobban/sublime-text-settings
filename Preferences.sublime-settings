@@ -1,0 +1,10 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/Nonimage.tmTheme",
+	"font_size": 15,
+	"highlight_line": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"preview_on_click": true,
+	"word_wrap": true
+}

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[@include respond-min(44em) {$SELECTION}]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>darken</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.css</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Darken Snippet</description>
+</snippet>

@@ -1,12 +1,24 @@
 {
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/Nonimage.tmTheme",
-	"file_exclude_patterns": [".DS_Store", "._*"],
-	"folder_exclude_patterns": [".sass-cache", ".svn"],
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"._*"
+	],
+	"folder_exclude_patterns":
+	[
+		".sass-cache",
+		".svn"
+	],
 	"font_size": 15,
 	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"preview_on_click": false,
-	"word_wrap": true,
+	"word_wrap": true
 }

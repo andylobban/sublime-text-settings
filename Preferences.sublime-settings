@@ -20,5 +20,6 @@
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"preview_on_click": false,
+	"remember_open_files": true,
 	"word_wrap": true
 }

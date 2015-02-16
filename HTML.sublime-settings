@@ -2,6 +2,7 @@
 	"extensions":
 	[
 		"hbs",
-		"cshtml"
+		"cshtml",
+		"master"
 	]
 }

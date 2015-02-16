@@ -15,11 +15,12 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"CSS3",
 		"Vintage"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"preview_on_click": false,
-	"remember_open_files": true,
+	"remember_open_files": false,
 	"word_wrap": true
 }

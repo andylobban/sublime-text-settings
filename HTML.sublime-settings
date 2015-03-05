@@ -3,6 +3,7 @@
 	[
 		"hbs",
 		"cshtml",
-		"master"
+		"master",
+		"ascx"
 	]
 }

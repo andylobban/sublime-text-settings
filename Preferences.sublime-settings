@@ -18,11 +18,11 @@
 		"Vintage",
 		"CSS3"
 	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
 	"preview_on_click": false,
 	"remember_open_files": false,
-	"soda_classic_tabs": true, 
+	"soda_classic_tabs": true,
 	"theme": "Soda Light 3.sublime-theme",
 	"word_wrap": true
 }

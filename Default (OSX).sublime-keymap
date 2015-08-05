@@ -17,5 +17,5 @@
 	        { "key": "selector", "operator": "equal", "operand": "source.scss" }
 	    ]
 	},
-	{ "keys": ["command+shift+m"], "command": "insert_snippet", "args": { "name": "Packages/User/respondmin.sublime-snippet" } },
+	{ "keys": ["command+shift+m"], "command": "insert_snippet", "args": { "name": "Packages/User/mediaquery.sublime-snippet" } },
 ]

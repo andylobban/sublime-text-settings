@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[@include respond-min($1em) {
+    <content><![CDATA[@media (min-width: $1em) {
     $SELECTION
     }]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->

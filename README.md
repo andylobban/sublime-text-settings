@@ -3,4 +3,5 @@ sublime-text-settings
 
 My personal settings for Sublime Text 3.
 
-Requires [Soda](https://github.com/buymeasoda/soda-theme)
+- Install [Sublime Package Control](https://packagecontrol.io/installation)
+- Install [Soda](https://github.com/buymeasoda/soda-theme) via SPC
